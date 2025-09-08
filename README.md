@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Live Demo
-👉 **[View the Project Here](https://ai-resume-analyzer-demo-2m4ymh57p-karthik-srirams-projects.vercel.app)**
+👉 **[View the Project Here](https://ai-resume-analyzer-demo-eight.vercel.app)**
 
 ---
 
