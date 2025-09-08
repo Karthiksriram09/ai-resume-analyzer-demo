@@ -1,0 +1,55 @@
+{
+  "fullstack_engineer": {
+    "title": "Full-Stack Engineer",
+    "required": [
+      "javascript",
+      "react",
+      "node",
+      "express",
+      "mongodb",
+      "mysql",
+      "git",
+      "html",
+      "css",
+      "rest",
+      "docker",
+      "linux",
+      "dsa",
+      "oop",
+      "nextjs",
+      "tailwind"
+    ]
+  },
+  "ml_engineer": {
+    "title": "Machine Learning Engineer",
+    "required": [
+      "python",
+      "sklearn",
+      "pytorch",
+      "tensorflow",
+      "nlp",
+      "git",
+      "linux",
+      "docker",
+      "aws",
+      "dsa",
+      "rest"
+    ]
+  },
+  "backend_engineer": {
+    "title": "Backend Engineer",
+    "required": [
+      "node",
+      "express",
+      "postgres",
+      "redis",
+      "docker",
+      "linux",
+      "git",
+      "rest",
+      "ci",
+      "cd",
+      "microservices"
+    ]
+  }
+}
